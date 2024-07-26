@@ -1,1 +1,1 @@
-# django-auth-jwt
+# django-auth
